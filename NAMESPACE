@@ -1,2 +1,1 @@
-import("rJava", "RJSONIO")
 export("looker_setup", "run_look", "run_inline_query")
